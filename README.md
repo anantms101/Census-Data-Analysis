@@ -43,8 +43,8 @@ This project is a comprehensive statistical analysis of the 2011 Census data for
 - Analyze longitudinal gender dynamics and ST/SC socioeconomic roles.
 
 ## Author
-- **Anant M S** (Reg. No. 2003730001)
-- **Guided by**: Ms. Suhana E N, Department of Mathematics and Statistics, St. Albert's College (Autonomous)
+- **Anant M S** 
+- **Guided by**: **Ms. Suhana E N**, Department of Mathematics and Statistics, St. Albert's College (Autonomous) &       **Mr.Subash S** ,Town Planner,**GCDA** Kochi
 
 ## Acknowledgments
 - St. Albert's College (Autonomous) and Mahatma Gandhi University.
